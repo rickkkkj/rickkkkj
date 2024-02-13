@@ -1,4 +1,6 @@
 ## Olá eu sou a Ricardo Santos, desenvolvedor front-end!
+Sou um estudante universitário apaixonado por tecnologia e programação. Atualmente cursando Sistemas de Informção pela UNIPAM, estou dedicando meus esforços para adquirir conhecimento e habilidades fundamentais na área da computação. <br>
+Apesar de não possuir experiência profissional, estou envolvido em projetos pessoais e acadêmicos, buscando oportunidades para aplicar meus conhecimentos teóricos na prática. Estou constantemente aprendendo e aprimorando minhas habilidades, sempre em busca de novos desafios e oportunidades de crescimento.
 
 
 <div style="display: inline_block"><br>
