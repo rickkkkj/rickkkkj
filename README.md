@@ -18,6 +18,7 @@ Embora ainda não possua experiência profissional, estou engajado em projetos p
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickkkkj&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+
   ##
  
 <div> 
@@ -27,3 +28,4 @@ Embora ainda não possua experiência profissional, estou engajado em projetos p
   <a href="https://www.linkedin.com/in/ricardomartinszz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
